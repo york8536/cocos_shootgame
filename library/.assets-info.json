@@ -1,0 +1,122 @@
+{
+  "C:\\Users\\admin\\NewProject\\assets\\script.meta": {
+    "time": 1688978523250.3008
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\script": {
+    "time": 1688979109321.0972,
+    "uuid": "ab5e0ccb-3e05-4c0a-af3a-6bbd33d0ee55",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\texture.meta": {
+    "time": 1688978531675.8738
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\texture": {
+    "time": 1688978531670.0176,
+    "uuid": "e99e3897-23fb-4258-b3cc-5994287d2fb1",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation.meta": {
+    "time": 1688978733654.9727
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\bullet.anim.meta": {
+    "time": 1688978733656.9224
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation": {
+    "time": 1690359193945.2295,
+    "uuid": "86be1258-fda7-4ca0-9a8e-9d3a408f60b6",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\bullet.anim": {
+    "time": 1689820120707.1643,
+    "uuid": "17cfe68c-3658-407e-82e9-a4fe2946cc58",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab.meta": {
+    "time": 1688978919550.565
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab": {
+    "time": 1690362745970.7976,
+    "uuid": "3a77d1eb-39ff-4a6f-88dc-7e1af14b8b70",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\script\\shoot.ts.meta": {
+    "time": 1688979105092.0234
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\script\\shoot.ts": {
+    "time": 1690364320502.5332,
+    "uuid": "01d61e2c-4471-4e82-b9ff-40bfc64939ea",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\bullet.prefab.meta": {
+    "time": 1688981010892.4531
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\bullet.prefab": {
+    "time": 1689308030436.543,
+    "uuid": "1e977ff2-f1a3-4605-bc48-d9d95029d2a5",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\image.meta": {
+    "time": 1689491139046.3704
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\image": {
+    "time": 1689491236956.4697,
+    "uuid": "0de753a9-4e92-4028-81c9-263288b16c9c",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\image\\enemy.png.meta": {
+    "time": 1689491236973.4236
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\image\\enemy.png": {
+    "time": 1689491021695.0605,
+    "uuid": "736d872d-455b-46bd-b242-98c795e03089",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\enemymove.anim.meta": {
+    "time": 1689491766162.8164
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\enemymove.anim": {
+    "time": 1690364922008.2502,
+    "uuid": "cc597844-04c7-424b-97af-b9d9448553a8",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\miss.anim.meta": {
+    "time": 1690359193954.2344
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\animation\\miss.anim": {
+    "time": 1690361485193.6912,
+    "uuid": "ea90cfd5-4f79-475a-bc04-1257c8c9e890",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\scene.meta": {
+    "time": 1688978507085.6965
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\scene": {
+    "time": 1689214840298.8635,
+    "uuid": "492de06c-abea-4ebe-bc8f-22275f4b181f",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\scene\\shootgame.scene.meta": {
+    "time": 1688981309869.7188
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\scene\\shootgame.scene": {
+    "time": 1690360410138.7917,
+    "uuid": "01e40fff-0268-4585-a14b-1da890549e39",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\MISS.prefab.meta": {
+    "time": 1690361329050.3079
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\MISS.prefab": {
+    "time": 1690361602202.5085,
+    "uuid": "0cd0d574-fe8c-4434-8978-07289d04433f",
+    "missing": false
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\enemy.prefab.meta": {
+    "time": 1690362745982.7654
+  },
+  "C:\\Users\\admin\\NewProject\\assets\\prefab\\enemy.prefab": {
+    "time": 1690362745979.774,
+    "uuid": "79dabed0-f4e6-4e24-ac72-c5efe5dc1088",
+    "missing": false
+  }
+}

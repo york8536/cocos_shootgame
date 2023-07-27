@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "01e40fff-0268-4585-a14b-1da890549e39": "C:\\Users\\admin\\NewProject\\assets\\scene\\shootgame.scene"
+    },
+    "deviceMd5": "a00c43442e56cdf310578d00ed7d3250"
+}

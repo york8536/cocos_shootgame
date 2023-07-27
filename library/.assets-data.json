@@ -1,0 +1,151 @@
+{
+  "492de06c-abea-4ebe-bc8f-22275f4b181f": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "ab5e0ccb-3e05-4c0a-af3a-6bbd33d0ee55": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "e99e3897-23fb-4258-b3cc-5994287d2fb1": {
+    "url": "db://assets/texture",
+    "value": {}
+  },
+  "86be1258-fda7-4ca0-9a8e-9d3a408f60b6": {
+    "url": "db://assets/animation",
+    "value": {}
+  },
+  "17cfe68c-3658-407e-82e9-a4fe2946cc58": {
+    "url": "db://assets/animation/bullet.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "3a77d1eb-39ff-4a6f-88dc-7e1af14b8b70": {
+    "url": "db://assets/prefab",
+    "value": {}
+  },
+  "7c097526-ed19-43fb-b9d9-b2b1d41322a5": {
+    "url": "db://assets/prefab/Camera.prefab",
+    "value": {}
+  },
+  "01d61e2c-4471-4e82-b9ff-40bfc64939ea": {
+    "url": "db://assets/script/shoot.ts",
+    "value": {}
+  },
+  "1e977ff2-f1a3-4605-bc48-d9d95029d2a5": {
+    "url": "db://assets/prefab/bullet.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "17cfe68c-3658-407e-82e9-a4fe2946cc58",
+        "17cfe68c-3658-407e-82e9-a4fe2946cc58"
+      ]
+    }
+  },
+  "01e40fff-0268-4585-a14b-1da890549e39": {
+    "url": "db://assets/scene/shootgame.scene",
+    "value": {
+      "depends": [
+        "01e40fff-0268-4585-a14b-1da890549e39",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "736d872d-455b-46bd-b242-98c795e03089@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "1e977ff2-f1a3-4605-bc48-d9d95029d2a5",
+        "cc597844-04c7-424b-97af-b9d9448553a8",
+        "cc597844-04c7-424b-97af-b9d9448553a8",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "1e977ff2-f1a3-4605-bc48-d9d95029d2a5",
+        "01e40fff-0268-4585-a14b-1da890549e39"
+      ]
+    }
+  },
+  "0de753a9-4e92-4028-81c9-263288b16c9c": {
+    "url": "db://assets/image",
+    "value": {}
+  },
+  "736d872d-455b-46bd-b242-98c795e03089": {
+    "url": "db://assets/image/enemy.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "736d872d-455b-46bd-b242-98c795e03089@6c48a": {
+    "url": "db://assets/image/enemy.png@6c48a",
+    "value": {
+      "depends": [
+        "736d872d-455b-46bd-b242-98c795e03089"
+      ]
+    }
+  },
+  "736d872d-455b-46bd-b242-98c795e03089@f9941": {
+    "url": "db://assets/image/enemy.png@f9941",
+    "value": {
+      "depends": [
+        "736d872d-455b-46bd-b242-98c795e03089@6c48a"
+      ]
+    }
+  },
+  "1a7345dd-b30d-4e3b-bf32-10405baea04f": {
+    "url": "db://assets/animation/enemymove.anim",
+    "value": {}
+  },
+  "cc597844-04c7-424b-97af-b9d9448553a8": {
+    "url": "db://assets/animation/enemymove.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "1d3b8a32-7465-4a13-b012-3bfe2d231df0": {
+    "url": "db://assets/animation/bullet.prefab",
+    "value": {}
+  },
+  "477babbf-7582-483b-8a3c-8f7518d678cb": {
+    "url": "db://assets/animation/bullet.prefab",
+    "value": {}
+  },
+  "ea90cfd5-4f79-475a-bc04-1257c8c9e890": {
+    "url": "db://assets/animation/miss.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c30221b-7677-4ebf-a46e-0226268d1bea": {
+    "url": "db://assets/prefab/miss.prefab",
+    "value": {}
+  },
+  "0cd0d574-fe8c-4434-8978-07289d04433f": {
+    "url": "db://assets/prefab/MISS.prefab",
+    "value": {
+      "depends": [
+        "ea90cfd5-4f79-475a-bc04-1257c8c9e890",
+        "ea90cfd5-4f79-475a-bc04-1257c8c9e890"
+      ]
+    }
+  },
+  "79dabed0-f4e6-4e24-ac72-c5efe5dc1088": {
+    "url": "db://assets/prefab/enemy.prefab",
+    "value": {
+      "depends": [
+        "736d872d-455b-46bd-b242-98c795e03089@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "cc597844-04c7-424b-97af-b9d9448553a8",
+        "cc597844-04c7-424b-97af-b9d9448553a8"
+      ]
+    }
+  }
+}
